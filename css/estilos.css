@@ -1,0 +1,27 @@
+.logo img{
+    width: 120px;
+}
+.redes i,
+.redes svg{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.carousel-item img{
+    height: 800px;
+}
+.img-hamburguesa{
+    width: 100%;
+    height: 500px;
+}
+.fondo-promo{
+    padding: 5px 31px;
+    background-image: url("../imagenes/fondo-amarillo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.img-promos{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 10px;
+}
